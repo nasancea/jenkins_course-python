@@ -1,2 +1,2 @@
 # Permisos especiales sobre carpeta app solo para usuario nasancea
-/app/ @nasancea
+/app/*.py @nasancea
