@@ -1,2 +1,6 @@
 # Permisos especiales sobre carpeta app solo para usuario nasancea
 /app/*.py @nasancea
+/test/ @brook266
+/.github/CODEOWNERS @nasancea
+README.md @brook266
+
