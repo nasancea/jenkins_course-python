@@ -12,4 +12,4 @@ class TestDataProcessor(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    print("Proceso finalizado)
+    print("Proceso finalizado")
